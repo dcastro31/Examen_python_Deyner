@@ -19,7 +19,7 @@ sistemas = administracion * 0.25
 telecomunicaciones = sistemas * 0.10
 contabilidad = (donacion - (administracion + sistemas + telecomunicaciones))
 print(f'El valor de la donacion es: ${donacion:,}')
-print(f'El valor dado a Telecomunicaciones es: ${telecomunicaciones:,}')
-print(f'El valor dado a Sistemas es: ${sistemas:,}')
-print(f'El valor dado a Administración es: ${administracion:,}')
-print(f'El valor dado a Contabilidad es: ${contabilidad:,}')
+print(f'El valor donado a Telecomunicaciones es: ${telecomunicaciones:,}')
+print(f'El valor donado a Sistemas es: ${sistemas:,}')
+print(f'El valor donado a Administración es: ${administracion:,}')
+print(f'El valor donado a Contabilidad es: ${contabilidad:,}')
